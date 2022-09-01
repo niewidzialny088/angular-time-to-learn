@@ -8,21 +8,21 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'Pomidor',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'Wspaniały owoc, który jest warzywem'
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'Kartofel',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Cud polskiej kuchni, Łotysze nam go zadroszczą'
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Ogórek',
     price: 299,
-    description: ''
+    description: '...zielony, zielony ma garniturek!'
   }
 ];
 
